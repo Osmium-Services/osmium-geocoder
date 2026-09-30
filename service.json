@@ -1,0 +1,20 @@
+{
+    "id": "geocoder",
+    "name": "Postcode Geocoder",
+    "version": "1.0.0",
+    "description": "Looks up a UK postcode's lat/lng via postcodes.io - a pure capability with no admin page of its own, for other services to depend on",
+    "author": {
+        "name": "Gavin Cox"
+    },
+    "license": "proprietary",
+
+    "requires": {
+        "osmium": ">=1.0.0",
+        "php": ">=8.1",
+        "services": []
+    },
+
+    "autoload": [
+        "models"
+    ]
+}
