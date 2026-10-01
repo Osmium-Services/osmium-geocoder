@@ -1,8 +1,8 @@
 {
     "id": "geocoder",
     "name": "Postcode Geocoder",
-    "version": "1.0.0",
-    "description": "Looks up a UK postcode's lat/lng via postcodes.io - a pure capability with no admin page of its own, for other services to depend on",
+    "version": "1.0.1",
+    "description": "Looks up a UK postcode's lat/lng via postcodes.io - a pure capability with no admin page of its own, for other services to depend on (update test)",
     "author": {
         "name": "Gavin Cox"
     },
